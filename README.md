@@ -17,4 +17,8 @@ requirements:
 
 to run:
 - enter directory
+- add your spreadsheet_id to the sheetsUpdateValues (['YOUR_SPREADSHEET_ID'])*
 - python3 sheetsUpdateValues
+
+
+* Spreadsheet ID is found after /d/ in your spreadsheet url: 'https://docs.google.com/spreadsheets/d/'YOUR_SPREADSHEET_ID'/
