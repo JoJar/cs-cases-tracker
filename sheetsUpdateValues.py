@@ -53,12 +53,7 @@ def sheets_batch_update(spreadsheet_id, newData, row_start, row_end, column_star
                             "userEnteredValue":
                                 {
                                     "numberValue":newData
-                                },
-                            "effectiveValue":
-                                {
-                                    "stringValue":"1234"
                                 }
-
                         },
 
 
