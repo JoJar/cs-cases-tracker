@@ -8,3 +8,13 @@ Code to update google sheet document containing case information. This applicati
 
 TODO:
 Track case price history.
+
+requirements: 
+- Python 3.10.7 or greater
+- The pip package management tool
+- A Google Cloud project.
+- A Google Account.
+
+to run:
+- enter directory
+- python3 sheetsUpdateValues
